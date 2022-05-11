@@ -27,7 +27,17 @@
 <a href="https://github.com/Javascript-ChatBot/js/bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=Javascript-ChatBot&theme=github_dark" />
 </a>
-    
+<a href="https://github.com/tuongclearlove7/Python-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=Python-App&theme=omni" />
+</a>
+
+<br/>
+
+<br/>
+
+<a href="https://github.com/N1ghtTeam/NFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ghtTeam&repo=NFramework&theme=codeSTACKr" />
+</a>    
     
 ## GitHub Analytics ##
 <p align="left">
