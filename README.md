@@ -1,6 +1,6 @@
 
 # Hi I am CLearLove7💻 #
-<img src="image/image.png" alt="Artboard-1" width="700" height="300"/>
+<img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47a6f7e02bfd6c6f416e1cb41492df5d00b8767314&rid=giphy.gif" alt="Artboard-1" width="700" height="300"/>
 
 
 ![age](https://img.shields.io/badge/age-20-silver)
