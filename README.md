@@ -1,5 +1,5 @@
 
-# Hi I am ClearLove7💻 #
+# Hi I am CLearLove7💻 #
 ![age](https://img.shields.io/badge/age-20-cyan)
 ![focus](https://img.shields.io/badge/focus-App-green)
 ![living](https://img.shields.io/badge/living-DaNangCity-blue)
