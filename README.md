@@ -3,6 +3,8 @@
 ![age](https://img.shields.io/badge/age-20-silver)
 ![focus](https://img.shields.io/badge/focus-App-00B2BF)
 ![living](https://img.shields.io/badge/living-DaNangCity-red)
+![code](https://img.shields.io/badge/code-ClearloveCoder-green)
+
 
 
 ### Dev Programming Languages
