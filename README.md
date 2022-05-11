@@ -12,12 +12,13 @@
    
     
  
-## Projetcs  ##
+## Application ChatBotCL7 ##
 + Using heroku <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> 
 + Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 + Page app : https://www.facebook.com/Bot-117828560890633 <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-    
-<a href="https://github.com/INGTechnologies/ING">
+
+## Projects ##
+<a href="https://github.com/ Javascript-ChatBot/js/bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=github_dark" />
 </a>
 
