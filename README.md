@@ -2,7 +2,7 @@
 # Hi am ClearLove7💻 #
 ![age](https://img.shields.io/badge/age-24-cyan)
 ![focus](https://img.shields.io/badge/focus-App-green)
-![living](https://img.shields.io/badge/living-Da Nang-red)
+![living](https://img.shields.io/badge/living-shanghai-3c9)
 
 
 ### Dev Programming Languages
