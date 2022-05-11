@@ -7,7 +7,7 @@
 ![CPP](https://badgen.net/badge/cpp/17/yellow)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-application, font-end, back-end developer\
+application, font-end, back-end developer
 
 ## Knowledge ##
 + Computer Graphics
