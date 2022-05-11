@@ -9,8 +9,8 @@
 
 
 <p>
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
      
      
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
