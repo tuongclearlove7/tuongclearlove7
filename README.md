@@ -36,4 +36,6 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&
 
 
 ## GitHub Stats ##
+<p align="center">
 ![ClearLove7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuongclearlove7&show_icons=true&theme=apprentice)
+</p>
