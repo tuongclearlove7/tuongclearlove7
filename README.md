@@ -1,13 +1,13 @@
-<img src="image/image.png"/>
+<img src="image/image.png" alt="Artboard-1" />
 
 
-# Hi am ClearLove7  💻 #
-![GameEngine](https://badgen.net/badge/Python/App|Python App/cyan)
+# Hi! I'm NCoder 💻 #
+![GameEngine](https://badgen.net/badge/GameEngine/ING|UE5|Unity/cyan)
 ![IDE](https://badgen.net/badge/IDE/VS2022|VSCoder/green)
 ![CPP](https://badgen.net/badge/cpp/17/yellow)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=n-c0d3r&color=red) 
 \
-application, font-end, back-end developer
+I'm a game programmer and currently developing game and game engine.\
 
 ## Knowledge ##
 + Computer Graphics
