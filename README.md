@@ -1,6 +1,6 @@
 
 # Hi I am CLearLove7💻 #
-<img src="https://camo.voz.tech/413aed7964ba2bb3e78ae343c5aed82bae976074/68747470733a2f2f7a6e6577732d70686f746f2e7a61646e2e766e2f77313932302f55706c6f616465642f7967746d76642f323032315f30385f31352f73696e687669656e64756c6965752e6a7067/" alt="Artboard-1" width="900" height="250"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/850473863877992384/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Artboard-1" width="900" height="250"/>
 
 
 ![age](https://img.shields.io/badge/age-20-silver)
