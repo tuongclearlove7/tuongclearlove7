@@ -1,5 +1,7 @@
 
 # Hi am ClearLove7💻 #
+![age](https://img.shields.io/badge/age-24-cyan)
+
 ### Dev Programming Languages
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
