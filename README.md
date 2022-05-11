@@ -54,9 +54,5 @@
 
 ## GitHub Stats ##
 
-![ClearLove7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearLove7&show_icons=true&theme=apprentice)
+![ClearLove7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearLove7&show_icons=true&theme=apprentice)<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
 
-
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
