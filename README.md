@@ -1,7 +1,7 @@
-<img src="image/image.png" alt="Artboard-1" />
 
 # Hi am ClearLove7💻 #
 ### Dev Programming Languages
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -15,7 +15,6 @@
 + Using heroku <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> 
 + Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 + Page app : https://www.facebook.com/Bot-117828560890633 <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 ## GitHub Analytics ##
