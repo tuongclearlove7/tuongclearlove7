@@ -11,14 +11,12 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=cyan"></a>
    
     
-   
-## Cloud Hosting ##
-    
-   <p> <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> </p>
-
+ 
 ## Application ChatBotCL7 ##
-+ using heroku Cloud Hosting 
-+ link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
++ Using heroku 
+<p> <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> </p>
++ Using 
++ Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 
 
 ## Projects ##
