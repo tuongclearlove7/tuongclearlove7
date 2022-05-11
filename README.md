@@ -16,8 +16,12 @@
 + Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 + Page app : https://www.facebook.com/Bot-117828560890633 <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## Most Used Languages ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=dark&layout=compact)
-
+## GitHub Analytics ##
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ## GitHub Stats ##
 ![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-c0d3r&show_icons=true&theme=apprentice)
