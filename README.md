@@ -38,10 +38,13 @@
 <a href="https://github.com/tuongclearlove7/Game-CSharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=Game-CSharp&theme=codeSTACKr" />
 </a>    
+<a href="https://github.com/tuongclearlove7/C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=C&theme=codeSTACKr" />
+</a>
     
 ## GitHub Analytics ##
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tuongclearlove7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuongclearlove7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
