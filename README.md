@@ -18,8 +18,8 @@
 + Page app : https://www.facebook.com/Bot-117828560890633 <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## Projects ##
-<a href="https://github.com/ Javascript-ChatBot/js/bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INGTechnologies&repo=ING&theme=github_dark" />
+<a href="https://github.com/Javascript-ChatBot/js/bot">
+  <img align="center" src="https://github.com/tuongclearlove7/Javascript-ChatBot&theme=github_dark" />
 </a>
 
 <br/>
