@@ -2,7 +2,7 @@
 # Hi I am CLearLove7💻 #
 # Logo Teamwork #
 
-<img src="image/Flizer.png" alt="Artboard-1" />
+<img src="image/Flizer.png" alt="Artboard-1" width="100" />
 
 
 ![age](https://img.shields.io/badge/age-20-silver)
