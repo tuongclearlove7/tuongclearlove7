@@ -56,4 +56,3 @@
 
 ![ClearLove7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearLove7&show_icons=true&theme=apprentice)
 
-![ClearLove7 Github Stats](https://github-readme-stats.vercel.app/api?username=ClearLove78&show_icons=true&theme=radical&hide=stars,issues)
