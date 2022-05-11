@@ -1,4 +1,4 @@
-<img src="image/clearlove7.png" alt="Artboard-1" border="0" width="100%"/>
+<img src="image/clearlove7.png"/>
 
 
 # Hi! I'm NCoder 💻 #
