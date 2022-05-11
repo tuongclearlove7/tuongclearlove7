@@ -13,6 +13,7 @@
     
    
 ## Cloud Hosting ##
+    <p>
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> 
 
 ## Knowledge ##
