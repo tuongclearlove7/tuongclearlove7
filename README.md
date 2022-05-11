@@ -7,6 +7,8 @@
 ![focus](https://img.shields.io/badge/focus-App-00B2BF)
 ![living](https://img.shields.io/badge/living-DaNangCity-red)
 ![Coder](https://img.shields.io/badge/Coder-CLearLove7-green)
+![ProfileViews](https://img.shields.io/badge/ProfileView-7000-yellow)
+
 
 
 
