@@ -12,15 +12,15 @@
      
      
      
-![Python](https://img.shields.io/badge/-Python-cyan?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-silver?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-silver?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-silver?style=flat&logo=C&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-silver?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-magenta?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-red?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6EC3C9?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-6EC3C9?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-6EC3C9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-silver?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-silver?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-27408B?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
      
      
