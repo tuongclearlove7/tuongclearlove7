@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-27408B?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
      
      
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
