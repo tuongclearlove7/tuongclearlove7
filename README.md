@@ -2,13 +2,13 @@
 # Hi! I'm CLearLove7💻 #
 <img src="https://steamuserimages-a.akamaihd.net/ugc/850473863877992384/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Artboard-1" width="900" height="250"/>
 
-<p src="center">
+
 ![age](https://img.shields.io/badge/age-20-silver)
 ![focus](https://img.shields.io/badge/focus-App-00B2BF)
 ![living](https://img.shields.io/badge/living-DaNangCity-red)
 ![Coder](https://img.shields.io/badge/Coder-CLearLove7-green)
 ![ProfileViews](https://img.shields.io/badge/ProfileViews-7000-yellow)
-</p>
+
 
 
 
