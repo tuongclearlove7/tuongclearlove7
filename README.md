@@ -42,8 +42,8 @@
 + Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 + Page app : https://www.facebook.com/Bot-117828560890633 
  <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://github.com/tuongclearlove7/My Project_ChatBotCL7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=ChatBotCL7&theme=github_dark" />
+<a href="https://github.com/tuongclearlove7/ChatBotCL7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=My project ChatBotCL7&theme=github_dark" />
 </a>
 <a href="https://github.com/tuongclearlove7/Python-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=Python-App&theme=omni" />
