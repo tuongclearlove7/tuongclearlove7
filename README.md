@@ -45,8 +45,8 @@
 <a href="https://github.com/tuongclearlove7/ChatBotCL7-facebook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=ChatBotCL7-facebook&theme=github_dark" />
 </a>
-<a href="https://github.com/tuongclearlove7/Python-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=Python-App&theme=omni" />
+<a href="https://github.com/tuongclearlove7/App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=App&theme=omni" />
 </a>
 
 <br/>
