@@ -1,6 +1,5 @@
 
-# Hi! I'm CLearLove7💻 #
-<img src="https://steamuserimages-a.akamaihd.net/ugc/850473863877992384/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Artboard-1" width="900" height="250"/>
+# Hi! I'm CLearLove7💻 
 
 
 ![age](https://img.shields.io/badge/age-20-silver)
