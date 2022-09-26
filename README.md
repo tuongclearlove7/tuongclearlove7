@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-silver?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=yellow)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-00B2BF?style=flat&logo=HTML5)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-00B2BF?style=flat&logo=node.js&logoColor=339933)&nbsp;
      
