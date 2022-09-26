@@ -25,7 +25,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-00B2BF?style=flat&logo=HTML5)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-00B2BF?style=flat&logo=node.js&logoColor=339933)&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio-103667?style=flat&logo=C-Sharp&logoColor=white"/>     
      
      
      
