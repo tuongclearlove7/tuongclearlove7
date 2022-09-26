@@ -27,7 +27,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-00B2BF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-00B2BF?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-103667?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-103667?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio-103667?style=flat&logo=C-Sharp&logoColor=white"/>     
      
      
